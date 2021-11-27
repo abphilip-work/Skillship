@@ -1,1 +1,3 @@
-# Website: Skillship Template
+# Skillship Foundation
+
+**Official Website Template**
